@@ -5,11 +5,13 @@
 
 .h2{
     background-color: rgb(228, 228, 228);
+    color: black;
     text-align: center;
 }
 
 .h3{
     background-color:rgb(149, 147, 147); ;
+    color: white;
     text-align: center;
 }
 
